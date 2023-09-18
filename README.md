@@ -7,8 +7,13 @@ Key Highlights:
 
 Objective: The project aims to create a robust disease classification system using machine learning algorithms.
 Data Processing: The project involves extensive data preprocessing, including data cleaning, feature extraction, and normalization to ensure high-quality input for the machine learning model.
-Machine Learning Models: The repository includes the implementation of various machine learning models suitable for disease classification. This demonstrates a strong understanding of classification algorithms and model selection.
+
+Machine Learning Models: The repository includes the implementation of suitable learning models like Random Forest, SVM, Naive Bayes, ANN for disease classification. This demonstrates a strong understanding of classification algorithms and model selection.
+
 Feature Engineering: The project showcases feature engineering techniques, highlighting the ability to extract relevant information from raw data to enhance the model's performance.
+
 Model Evaluation: The developed models are thoroughly evaluated using appropriate evaluation metrics to measure their accuracy and effectiveness in disease prediction.
+
 Documentation: The project's README file is expected to provide comprehensive documentation about the project, including its purpose, data sources, methodology, model descriptions, and usage instructions.
+
 Contribution to Research: Depending on the specific diseases being targeted, this project could contribute to medical research and healthcare applications by offering a tool to aid in automated disease diagnosis.
